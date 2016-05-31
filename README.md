@@ -1,4 +1,4 @@
-#ovUnwrap
+#ovChromaKey
 
 Chroma keying is a post-processing technique for making the background of an image transparent,  this applet applies this effect to 360° image and video.
 ## Usage
