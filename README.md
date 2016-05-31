@@ -2,9 +2,7 @@
 
 Chroma keying is a post-processing technique for making the background of an image transparent,  this applet applies this effect to 360° image and video.
 ## Usage
-Drag & drop videos and  pictures  onto the
-window to unwrap 360° media. Drag the mouse
-across the screen to look around.
+Use GUI elements to adjust the threshold of acceptable chroma key value and the tolerance of other colours within the thresholded pixel
 
 
 ## Dependencies:
